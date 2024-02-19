@@ -1,8 +1,5 @@
 This is the first line
 this is second line
 This is third line
-<<<<<<< HEAD
 Hello
-=======
 This is test branch update
->>>>>>> test
